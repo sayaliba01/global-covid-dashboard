@@ -1,0 +1,4 @@
+covidenv 
+*.pyc 
+.env 
+.DS_Store
